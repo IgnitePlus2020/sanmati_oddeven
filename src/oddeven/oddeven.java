@@ -14,3 +14,9 @@ public class oddeven {
             System.out.println("Given number is odd");
     }
 }
+
+/*
+Enter a number to check if it is odd or even
+5
+Given number is odd
+*/
